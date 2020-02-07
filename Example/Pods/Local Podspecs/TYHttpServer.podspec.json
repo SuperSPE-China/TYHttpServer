@@ -1,0 +1,22 @@
+{
+  "name": "TYHttpServer",
+  "version": "0.1.0",
+  "summary": "A short description of TYHttpServer.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/NEEARN/TYHttpServer",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "NEEARN": "318465271@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/NEEARN/TYHttpServer.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TYHttpServer/Classes/**/*"
+}

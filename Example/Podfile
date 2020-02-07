@@ -1,0 +1,6 @@
+use_frameworks!
+target 'TYHttpServer_Tests' do
+  pod 'TYHttpServer', :path => '../'
+  
+  
+end
